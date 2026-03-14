@@ -65,33 +65,3 @@ Development notes
 Tailwind CSS and component styles are wired via tailwind.config.js and postcss.config.js.
 TypeScript configuration is in tsconfig.json with path alias @/* mapped to src/*.
 The app is built using the App Router; new pages should follow the same app/ directory conventions.
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Contributors
-1
-@Pranav1703
-Pranav1703
-Languages
-TypeScript
-97.8%
- 
-JavaScript
-1.4%
- 
-CSS
-0.8%
-Footer
